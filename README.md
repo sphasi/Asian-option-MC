@@ -5,10 +5,6 @@ This repository contains materials from my project on pricing Asian options, com
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Repository Contents](#repository-contents)
-- [Prerequisites and Dependencies](#prerequisites-and-dependencies)
-- [How to Run the Code](#how-to-run-the-code)
-- [Acknowledgments](#acknowledgments)
-- [License](#license)
 
 ## Project Overview
 
